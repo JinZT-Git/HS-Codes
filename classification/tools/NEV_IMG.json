@@ -1,0 +1,154 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "lesion",
+      "points": [
+        [
+          6.0,
+          11.5
+        ],
+        [
+          5.600000000000001,
+          9.799999999999997
+        ],
+        [
+          5.600000000000001,
+          7.200000000000003
+        ],
+        [
+          6.200000000000003,
+          6.899999999999999
+        ],
+        [
+          7.399999999999999,
+          6.899999999999999
+        ],
+        [
+          8.899999999999999,
+          7.100000000000001
+        ],
+        [
+          10.399999999999999,
+          7.700000000000003
+        ],
+        [
+          11.099999999999994,
+          8.700000000000003
+        ],
+        [
+          11.200000000000003,
+          9.600000000000001
+        ],
+        [
+          11.599999999999994,
+          10.700000000000003
+        ],
+        [
+          11.0,
+          11.100000000000001
+        ],
+        [
+          9.899999999999999,
+          11.600000000000001
+        ],
+        [
+          9.200000000000003,
+          12.200000000000003
+        ],
+        [
+          7.100000000000001,
+          12.200000000000003
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "lesion",
+      "points": [
+        [
+          12.599999999999994,
+          3.799999999999997
+        ],
+        [
+          13.700000000000003,
+          2.8999999999999986
+        ],
+        [
+          15.799999999999997,
+          3.0
+        ],
+        [
+          15.799999999999997,
+          3.700000000000003
+        ],
+        [
+          16.400000000000006,
+          5.100000000000001
+        ],
+        [
+          16.0,
+          6.299999999999997
+        ],
+        [
+          14.700000000000003,
+          7.100000000000001
+        ],
+        [
+          13.599999999999994,
+          6.5
+        ],
+        [
+          13.099999999999994,
+          6.0
+        ],
+        [
+          12.200000000000003,
+          5.100000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "lesion",
+      "points": [
+        [
+          2.799999999999997,
+          4.399999999999999
+        ],
+        [
+          14.0,
+          14.200000000000003
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "lesion",
+      "points": [
+        [
+          9.200000000000003,
+          0.6000000000000014
+        ],
+        [
+          17,
+          8
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "NEV_IMG.JPG",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAASABIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC14S0hPC/h4Le3cQCtvklY7UXPbJrp7m00vWrBTPBZ30DD5WZVkX8DXP39vHrWhzWBnMXnKuJAM7WDBh+oqHwppV34csbmC6v451kZXRIwcIccnn14/L3rjv1OryJG8G+Gtx/4k1n1/wCedFXGvV3H5u9FHMw0MKwdvJT5j+dXJ3bb94/nRRSQGSzNuPJ6+tFFFMZ//9k=",
+  "imageHeight": 18,
+  "imageWidth": 18
+}
